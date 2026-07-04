@@ -55,12 +55,12 @@ conference-website/
 
 Future Enhancements:
 
-.Deploy on Google Cloud
-.Add Cloud Firestore or Cloud SQL
-.User authentication
-.Online registration
-.Admin dashboard
-.Mobile optimization
+.Deploy on Google Cloud,
+.Add Cloud Firestore or Cloud SQL,
+.User authentication,
+.Online registration,
+.Admin dashboard,
+.Mobile optimization,
 
 
 Project Description:
@@ -74,13 +74,13 @@ Strengthened practical skills in Python, Flask, Generative AI, Prompt Engineerin
 
 Key Learning Outcomes:
 
-.AI-assisted software development
-.Prompt engineering
-.Flask web development
-.Frontend development
-.Search and filtering implementation
-.Software design principles
-.GitHub project management
+.AI-assisted software development,
+.Prompt engineering,
+.Flask web development,
+.Frontend development,
+.Search and filtering implementation,
+.Software design principles,
+.GitHub project management,
 
 
 
